@@ -13,7 +13,6 @@ background: #e6e6e6;
 /*
 *** layout ***
 */
-}
 #cabecalho{
 background: #f7b600;
 padding: 15px;
@@ -88,9 +87,5 @@ text-decoration: none;
 }
 .postagem a{
 color: #f7b600;
-background: white;
-}
-#area-lateral a{
-color: #fb7b600;
 background: white;
 }
